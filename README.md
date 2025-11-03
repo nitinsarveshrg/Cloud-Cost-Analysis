@@ -1,4 +1,4 @@
-# CloudWise Senior AWS Cost Optimization Engineer — Technical Assessment
+# AWS Cost Optimization
 
 This repo contains a complete, runnable submission with:
 - **Part 1:** Cost anomaly detection algorithm (`part1_cost_anomaly_detection.py`)
